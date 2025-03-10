@@ -1,2 +1,7 @@
 # Library-System
-A SQL project with basic CRUD operations
+
+A simple database management system for handling library records.
+
+## Features
+ •	View, add and delete books.
+ 
