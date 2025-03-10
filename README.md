@@ -9,3 +9,6 @@ A simple database management system for handling library records.
  -	Manage fines for overdue books.
  -	Manage reservations of books.
 
+## Entities
+-	Books (<u>BookID</u>, Title, Author, Genre, ISBN, CategoryID, PublisherID)
+-	
