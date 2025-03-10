@@ -10,5 +10,13 @@ A simple database management system for handling library records.
  -	Manage reservations of books.
 
 ## Entities
--	Books (<u>BookID</u>, Title, Author, Genre, ISBN, CategoryID, PublisherID)
--	
+-	Books
+-	Members
+-	Loans
+-	Fines
+-	Reservations
+-	Categories
+-	Publishers
+
+## ER-Diagram
+
