@@ -19,5 +19,5 @@ A simple database management system for handling library records.
 -	Publishers
 
 ## ER-Diagram
-![Library System](assets/library system.jpg)
+![Library System](assets/library%20system.jpg)
 
